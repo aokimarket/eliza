@@ -18,7 +18,7 @@
 ## 🚩 Overview
 
 <div align="center">
-  <img src="./docs/static/img/eliza_diagram.jpg" alt="Eliza Diagram" width="100%" />
+  <img src="https://pictr.com/images/2025/01/09/x1b3Jf.png" alt="Eliza Diagram" width="100%" />
 </div>
 
 ## ✨ Aoki Market: The Future of Prediction of the Best AI Agents
