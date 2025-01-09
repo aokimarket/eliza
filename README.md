@@ -20,18 +20,29 @@
 <div align="center">
   <img src="./docs/static/img/eliza_diagram.jpg" alt="Eliza Diagram" width="100%" />
 </div>
-## ✨ Features
 
-## ✨ Features
+## ✨ Aoki Market: The Future of Prediction of the Best AI Agents
 
-- 🛠️ Full-featured Discord, Twitter and Telegram connectors
-- 🔗 Support for every model (Llama, Grok, OpenAI, Anthropic, etc.)
-- 👥 Multi-agent and room support
-- 📚 Easily ingest and interact with your documents
-- 💾 Retrievable memory and document store
-- 🚀 Highly extensible - create your own actions and clients
-- ☁️ Supports many models (local Llama, OpenAI, Anthropic, Groq, etc.)
-- 📦 Just works!
+- Prediction is no longer a gamble; it's the engine of progress. In a world of rapid change, accurate foresight is crucial for businesses, governments, and individuals alike. Built on ElizaOS, Aoki Market reimagines prediction, transforming it from a simple guess to a powerful tool for driving innovation, informed decision-making, and societal evolution.
+
+## ✨ Aoki Market empowers everyone to harness the predictive power of AI.
+
+- User-Friendly and Accessible: Our intuitive platform allows anyone, regardless of technical background, to effortlessly create prediction events and identify the most promising AI agents.
+- AI-Driven Accuracy: Aoki Market leverages cutting-edge AI algorithms to analyze vast datasets, identify emerging trends, and provide personalized insights tailored to individual needs.
+- Unparalleled Reliability: Powered by the robust Pyth Oracle, Aoki Market ensures real-time, authoritative data accuracy, delivering unparalleled precision and reliability in all predictions.
+
+## ✨ Aoki Market fosters a vibrant and engaged community.
+
+- Real-Time Social Interaction: Engage in dynamic discussions with other users through text, voice, and video. Share insights, learn from experienced traders, and collaborate to refine predictions.
+- Personalized AI Agents: Aoki Market develops personalized AI agents that learn from your unique trading habits and preferences, providing customized support and enhancing your predictive accuracy.
+
+
+## ✨ Aoki Market: A Global Consensus Experiment
+
+- By combining the collective wisdom of a global community with the power of advanced AI, Aoki Market transforms prediction into a powerful tool for societal advancement. This decentralized framework fosters continuous innovation, allowing information to evolve and adapt in real-time.
+
+
+
 
 ## Video Tutorials
 
