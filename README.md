@@ -7,7 +7,7 @@
 
 <div align="center">
 
-📖 [Documentation](https://elizaos.github.io/eliza/) | 🎯 [Website](https://aokimarket.xyz/))
+🎯 [Website](https://aokimarket.xyz/) | 📖 [Documentation](https://elizaos.github.io/eliza/)
 
 </div>
 
